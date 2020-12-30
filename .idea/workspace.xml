@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01efa416-81bc-4b8d-bcbd-85127a47fbad" name="Default Changelist" comment="" />
+    <list default="true" id="01efa416-81bc-4b8d-bcbd-85127a47fbad" name="Default Changelist" comment="commit one!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/booklist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/booklist.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/bitirme/springboot" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -144,14 +147,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609338633079" />
-    <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2" timestamp="1609345063462">
+    <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2" timestamp="1609359386560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609345063462" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1609345488491">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609359386560" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1609359224533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1609359224533" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1609359438328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609345488491" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609359438328" />
     <state x="505" y="280" key="Github.CreateGistDialog" timestamp="1609341930423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -200,10 +209,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609342677516" />
-    <state x="555" y="75" key="RollbackChangesDialog" timestamp="1609342305253">
+    <state x="555" y="75" key="RollbackChangesDialog" timestamp="1609359227032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="555" y="75" key="RollbackChangesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609342305253" />
+    <state x="555" y="75" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1609359227032" />
     <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1609345104531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -220,5 +230,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="519" y="228" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609342989528" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609359371421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609359371421" />
   </component>
 </project>
