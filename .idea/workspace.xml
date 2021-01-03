@@ -3,25 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01efa416-81bc-4b8d-bcbd-85127a47fbad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/authorlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/authorlist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/booklist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/booklist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/booklistnew.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/booklistnew.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/save.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springboot.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/SpringbootApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/SpringbootApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/controller/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/entity/Author.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/entity/Author.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/entity/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/entity/Books.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/model/BookContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/model/BookContext.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/repository/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/repository/BookRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/service/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/service/BookServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/service/IBookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bitirme/springboot/service/IBookService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/authorlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/authorlist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/booklist.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/booklist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/save.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/save.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bitirme/springboot/SpringbootApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bitirme/springboot/SpringbootApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609313883244</updated>
       <workItem from="1609313887024" duration="24948000" />
-      <workItem from="1609690889895" duration="243000" />
+      <workItem from="1609690889895" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="commit one!">
       <created>1609344321342</created>
@@ -153,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609691058164</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit and push one!">
+      <created>1609691351057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609691351058</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,11 +169,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609338633079" />
-    <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2" timestamp="1609691052643">
+    <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2" timestamp="1609691347842">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" width="862" height="728" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1609345063462" />
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609691052643" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609691347842" />
     <state x="129" y="55" key="DiffContextDialog" timestamp="1609359224533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
