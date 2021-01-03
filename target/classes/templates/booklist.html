@@ -20,12 +20,13 @@
                 <div>
                     &nbsp;
 
-                    <!--/*@thymesVar id="bookContext" type="com.bitirme.springboot.controller"*/-->
-                    <!--/*@thymesVar id="bookContext" type="package com.bitirme.springboot.model"*/-->
-                    <form method="GET" th:action="@{books}"  th:object="${bookContext}"  >
-                        <input type="text" name="keyword" th:value="${param.keyword}" size="15" height="12" placeholder="Kitap Ara -> "/>
-                        <input type="submit" value="Search" class="btn btn-primary"/>
-                        <a href="books" class="btn btn-info">clear</a>
+                    <form method="post" th:action="@{ara}"  th:object="${bookContext}"  >
+                        <input type="text" name="booktitle" th:value="${param.booktitle}" size="15" height="18" placeholder="Kitap Ara -> "/>
+                        <a href="/page/ara" > <input type="submit" value="Ara" class="btn btn-primary"/></a>
+                        <a href="/page/list" class="btn btn-success">Temizle</a>
+                        &nbsp;
+                        <a href="/page/list" class="btn btn-info">Kitaplar</a> 
+                        <a href="/page/authlist" class="btn btn-danger">Yazarlar</a>
                     </form>
                 </div>
                 <table class="table table-striped table-responsive-md">
@@ -49,11 +50,20 @@
                         <td th:text="${books.author}"></td>
                         <td th:text="${books.bookaciklama}"></td>
                         <td th:text="${books.booknote}"></td>
+                        
+                      	 <td>  &nbsp;&nbsp;&nbsp;&nbsp; 
+								<a class="btn btn-info" th:href="@{'/page/add'}">Güncelle</a></td>
+                    
+                           <td>  &nbsp;&nbsp;&nbsp;&nbsp; 
+								<a class="btn btn-danger" th:href="@{'/page/delete/' + ${books.bookno}}">Sil</a>
+								
+								</td>
                     </tr>
                     </tbody>
                 </table>
             </div>
-            <p class="my-5"><a href="add_book" class="btn btn-primary">add a new book<i class="fa fa-plus ml-2"></i></a></p>
+            <p class="my-5"><a href="/page/add" class="btn btn-primary">Kitap ekle<i class="fa fa-plus ml-2"></i></a></p>
+            
         </div>
     </div>
 </div>
